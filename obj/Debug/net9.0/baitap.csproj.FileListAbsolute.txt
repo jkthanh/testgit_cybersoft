@@ -1,0 +1,28 @@
+E:\Cybersoft\Buoi 2\baitap1\bin\Debug\net9.0\baitap.exe
+E:\Cybersoft\Buoi 2\baitap1\bin\Debug\net9.0\baitap.deps.json
+E:\Cybersoft\Buoi 2\baitap1\bin\Debug\net9.0\baitap.runtimeconfig.json
+E:\Cybersoft\Buoi 2\baitap1\bin\Debug\net9.0\baitap.dll
+E:\Cybersoft\Buoi 2\baitap1\bin\Debug\net9.0\baitap.pdb
+E:\Cybersoft\Buoi 2\baitap1\obj\Debug\net9.0\baitap.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cybersoft\Buoi 2\baitap1\obj\Debug\net9.0\baitap.AssemblyInfoInputs.cache
+E:\Cybersoft\Buoi 2\baitap1\obj\Debug\net9.0\baitap.AssemblyInfo.cs
+E:\Cybersoft\Buoi 2\baitap1\obj\Debug\net9.0\baitap.csproj.CoreCompileInputs.cache
+E:\Cybersoft\Buoi 2\baitap1\obj\Debug\net9.0\baitap.dll
+E:\Cybersoft\Buoi 2\baitap1\obj\Debug\net9.0\refint\baitap.dll
+E:\Cybersoft\Buoi 2\baitap1\obj\Debug\net9.0\baitap.pdb
+E:\Cybersoft\Buoi 2\baitap1\obj\Debug\net9.0\baitap.genruntimeconfig.cache
+E:\Cybersoft\Buoi 2\baitap1\obj\Debug\net9.0\ref\baitap.dll
+E:\Cybersoft\Buoi 4\baitap tim tu dai nhat\bin\Debug\net9.0\baitap.exe
+E:\Cybersoft\Buoi 4\baitap tim tu dai nhat\bin\Debug\net9.0\baitap.deps.json
+E:\Cybersoft\Buoi 4\baitap tim tu dai nhat\bin\Debug\net9.0\baitap.runtimeconfig.json
+E:\Cybersoft\Buoi 4\baitap tim tu dai nhat\bin\Debug\net9.0\baitap.dll
+E:\Cybersoft\Buoi 4\baitap tim tu dai nhat\bin\Debug\net9.0\baitap.pdb
+E:\Cybersoft\Buoi 4\baitap tim tu dai nhat\obj\Debug\net9.0\baitap.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cybersoft\Buoi 4\baitap tim tu dai nhat\obj\Debug\net9.0\baitap.AssemblyInfoInputs.cache
+E:\Cybersoft\Buoi 4\baitap tim tu dai nhat\obj\Debug\net9.0\baitap.AssemblyInfo.cs
+E:\Cybersoft\Buoi 4\baitap tim tu dai nhat\obj\Debug\net9.0\baitap.csproj.CoreCompileInputs.cache
+E:\Cybersoft\Buoi 4\baitap tim tu dai nhat\obj\Debug\net9.0\baitap.dll
+E:\Cybersoft\Buoi 4\baitap tim tu dai nhat\obj\Debug\net9.0\refint\baitap.dll
+E:\Cybersoft\Buoi 4\baitap tim tu dai nhat\obj\Debug\net9.0\baitap.pdb
+E:\Cybersoft\Buoi 4\baitap tim tu dai nhat\obj\Debug\net9.0\baitap.genruntimeconfig.cache
+E:\Cybersoft\Buoi 4\baitap tim tu dai nhat\obj\Debug\net9.0\ref\baitap.dll
